@@ -7,6 +7,7 @@ guard :rspec, cmd: 'bundle exec rspec --color --format doc', all_on_start: true 
   watch(rspec.spec_helper) { rspec.spec_dir }
   watch(rspec.spec_support) { rspec.spec_dir }
   watch(rspec.spec_files) { rspec.spec_dir }
+  watch(%r{^lib/(.+)\.rb$}) { rspec.spec_dir }
 
   # Ruby files
   ruby = dsl.ruby
