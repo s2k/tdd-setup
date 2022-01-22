@@ -58,7 +58,7 @@ Inside the directory of _this_ repository, run
 * At least on macOS, using `Guard` should also work:
   ```bash
   bundle exec guard
-  ```
+
   > bundle exec guard
   13:05:36 - INFO - Guard::RSpec is running
   13:05:36 - INFO - Running all specs
