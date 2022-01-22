@@ -1,4 +1,4 @@
-# tdd-setup
+# Ruby code to setup a new TDD project
 
 ## GitHub actions
 
@@ -9,7 +9,7 @@ Initial setup of a #Ruby project that uses RSpec for TDDing & guard to automatic
 
 I created this, while working on [J. B. Rainsberger's (@jbrains)](https://twitter.com/jbrains) "The World's Best Intro to TDD" online course ➙ https://online-training.jbrains.ca/p/wbitdd-01
 
-This does the following things:
+## What it does
 
 1. Checks that _one_ argument is passed in: the name of a new folder to create the new project in.
 1. Checks that this folder does not yet exist (and exits with an error message otherwise).
