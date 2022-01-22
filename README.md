@@ -1,5 +1,10 @@
 # tdd-setup
 
+## GitHub actions
+
+* [![Test TDD setup](https://github.com/s2k/tdd-setup/actions/workflows/ruby_test.yml/badge.svg)](https://github.com/s2k/tdd-setup/actions/workflows/ruby_test.yml)
+* [![CodeQL for TDD setup](https://github.com/s2k/tdd-setup/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/s2k/tdd-setup/actions/workflows/codeql-analysis.yml)
+
 Initial setup of a #Ruby project that uses RSpec for TDDing & guard to automatically run the unit tests when the file system changes.
 
 I created this, while working on [J. B. Rainsberger's (@jbrains)](https://twitter.com/jbrains) "The World's Best Intro to TDD" online course ➙ https://online-training.jbrains.ca/p/wbitdd-01
