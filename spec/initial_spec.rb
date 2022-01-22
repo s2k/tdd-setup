@@ -1,7 +1,7 @@
 require 'rspec'
 
 describe 'Replace with real expectation' do
-  it 'should fail at first' do
+  it 'actually test something useful' do
     expect(true).to be true
   end
 end
