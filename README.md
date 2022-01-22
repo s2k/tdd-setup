@@ -72,4 +72,4 @@ Inside the directory of _this_ repository, run
 
   In addition to the output on the command line you should also get a notification on the screen, that looks like this:
 
-  <img src="images/rspec-results-from-guard.jpg" width="30%" alt="A notification message that Guard has sent to the OS after running RSpec">
+  <img src="images/rspec-results-from-guard.jpg" width="50%" alt="A notification message that Guard has sent to the OS after running RSpec">
