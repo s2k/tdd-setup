@@ -59,9 +59,7 @@ GEM
     terminal-notifier (2.0.0)
     terminal-notifier-guard (1.7.0)
     thor (1.2.1)
-    webrick (1.7.0)
-    yard (0.9.27)
-      webrick (~> 1.7.0)
+    yard (0.9.35)
 
 PLATFORMS
   x86_64-darwin-21
